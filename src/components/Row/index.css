@@ -1,0 +1,11 @@
+.mhs-label {
+    padding: 2px;
+    justify-items: center;
+    vertical-align: middle;
+}
+
+.mhs-label label {
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
